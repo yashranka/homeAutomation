@@ -15,3 +15,6 @@ The GPIO pins of Jetson Tx2 are used to control the devices also the switches ar
                     MQTT is also used in this file. The switch is connected to gpio pin(used as input), if the person switches On or Off, the value of the pin changes and according the relay turns On or Off respectively. Also for the same switching we need to change the state of the button on website (and app), so for that we publish 1 or 0 depending the pin is low or high respectively by publishing on a topic which is then subscribed by the website to toggle the button.
 
 The last 2 python files should be kept running on the machine 24/7.
+
+The YouTube link for the video is
+https://youtu.be/VeYHimM9GVQ
