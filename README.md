@@ -16,5 +16,7 @@ The GPIO pins of Jetson Tx2 are used to control the devices also the switches ar
 
 The last 2 python files should be kept running on the machine 24/7.
 
+The website or an Android app is used to control our home. Also the app has the a feature to give commands using our voice & control the devices. Google speech to text is used to do this.
+
 The YouTube link for the video is
 https://youtu.be/VeYHimM9GVQ
